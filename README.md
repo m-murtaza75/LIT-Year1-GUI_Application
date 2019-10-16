@@ -23,9 +23,9 @@ This project is developed using Java which requires to create a graphical user i
 
 #### AppStorm Snippet
 
-![GUI Application Snippet](https://github.com/m-murtaza75/LIT-Year1-GUI_Application/tree/master/Screenshots/AppStorm.png "GUI Application Snippet")
+![GUI Application Snippet](Screenshots/AppStorm.png)
 
 
 #### Checkout Snippet 
 
-![GUI Application Snippet](https://github.com/m-murtaza75/LIT-Year1-GUI_Application/tree/master/Screenshots/Checkout.png "Checkout Snippet")
+![Checkout Snippet](Screenshots/Checkout.png)
