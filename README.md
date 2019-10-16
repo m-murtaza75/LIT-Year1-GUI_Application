@@ -20,4 +20,12 @@ This project is developed using Java which requires to create a graphical user i
 * User gets a discount on the items sold on entering voucher number.
 * Application displays the appropriate discount amount calculated by the system.
 
- 
+
+#### AppStorm Snippet
+
+![GUI Application Snippet](https://github.com/m-murtaza75/LIT-Year1-GUI_Application/tree/master/Screenshots/AppStorm.png "GUI Application Snippet")
+
+
+#### Checkout Snippet 
+
+![GUI Application Snippet](https://github.com/m-murtaza75/LIT-Year1-GUI_Application/tree/master/Screenshots/Checkout.png "Checkout Snippet")
